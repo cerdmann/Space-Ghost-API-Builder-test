@@ -7,3 +7,11 @@ workspace:
 localResources:
   specs:
     - ../openapi.yaml
+
+# Each entry here maps a local resource to one or more corresponding objects in Postman Cloud
+
+cloudResources:
+  specs:
+    ../openapi.yaml: ec6376fe-bf2f-45ee-b966-9f368d1f230e
+  collections:
+    ../postman/collections/Space Ghost Collection: 54264379-a286dd40-7d7a-434f-baa1-94db58c71b89
