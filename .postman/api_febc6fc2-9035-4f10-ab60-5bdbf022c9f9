@@ -9,7 +9,7 @@ id = febc6fc2-9035-4f10-ab60-5bdbf022c9f9
 
 [config.relations.collections]
 rootDirectory = postman/collections
-files[] = {"id":"54264379-30b8de1b-efb7-4043-b23e-da7d6eb0886d","path":"test collection.json","metaData":{}}
+files[] = {"id":"54264379-8ff6207b-5199-4371-a7f0-e25c8275d7e2","path":"Space Ghost Collection.json","metaData":{"generateCollectionPreferences":"{\"requestNameSource\":\"Fallback\",\"indentCharacter\":\"Space\",\"parametersResolution\":\"Example\",\"folderStrategy\":\"Paths\",\"nestedFolderHierarchy\":false,\"includeAuthInfoInExample\":true,\"enableOptionalParameters\":true,\"keepImplicitHeaders\":false,\"includeDeprecated\":true,\"alwaysInheritAuthentication\":false,\"updateCollectionSync\":true,\"requestParametersResolution\":\"Example\",\"exampleParametersResolution\":\"Example\"}"}}
 
 [config.relations.collections.metaData]
 
