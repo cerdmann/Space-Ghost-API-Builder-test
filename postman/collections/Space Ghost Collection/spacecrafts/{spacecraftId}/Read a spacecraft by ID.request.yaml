@@ -1,0 +1,11 @@
+$kind: http-request
+url: "{{baseUrl}}/spacecrafts/:spacecraftId"
+method: GET
+headers:
+  Accept: application/json
+pathVariables:
+  - key: spacecraftId
+    value: string
+    description: The unique identifier of the spacecraft
+examples: ./.resources/Read a spacecraft by ID.resources/examples
+order: 1000
