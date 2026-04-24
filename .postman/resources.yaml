@@ -3,3 +3,7 @@ $id: '54264379-8ff6207b-5199-4371-a7f0-e25c8275d7e2'
 name: 'Space Ghost Collection'
 workspace:
   id: ac5f1cb0-5f7d-428e-b12a-6110cbd4bfa0
+
+localResources:
+  specs:
+    - ../openapi.yaml
